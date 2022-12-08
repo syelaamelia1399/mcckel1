@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{FCA71EB2-EF3E-4CDD-9CBB-3FA903379394}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_SystemSekolah/Controllers/MatpelController.cs">
+    <Files>
+      <File FileName="API_SystemSekolah/Models/Matpel.cs" />
+      <File FileName="API_SystemSekolah/Models/JadwalMatpel.cs" />
+      <File FileName="API_SystemSekolah/Program.cs" Line="18" Column="34" />
+      <File FileName="API_SystemSekolah/Context/MyContext.cs" />
+      <File FileName="API_SystemSekolah/Models/Guru.cs" Line="10" Column="8" />
+      <File FileName="API_SystemSekolah/Models/Siswa.cs" />
+      <File FileName="API_SystemSekolah/Handler/Hashing.cs" />
+      <File FileName="API_SystemSekolah/appsettings.Development.json" />
+      <File FileName="API_SystemSekolah/Models/GuruRoles.cs" />
+      <File FileName="API_SystemSekolah/Models/Kelas.cs" />
+      <File FileName="API_SystemSekolah/Models/Roles.cs" />
+      <File FileName="API_SystemSekolah/Repositories/Data/GuruRepository.cs" Line="79" Column="4" />
+      <File FileName="API_SystemSekolah/Properties/launchSettings.json" Line="14" Column="29" />
+      <File FileName="API_SystemSekolah/Repositories/Data/JadwalMatpelRepository.cs" Line="11" Column="57" />
+      <File FileName="API_SystemSekolah/Repositories/Data/MatpelRepository.cs" Line="51" Column="1" />
+      <File FileName="API_SystemSekolah/Repositories/Data/AccountSiswaRepository.cs" Line="50" Column="43" />
+      <File FileName="API_SystemSekolah/Controllers/AccountSiswaController.cs" Line="168" Column="10" />
+      <File FileName="API_SystemSekolah/ViewModels/LoginSiswaViewModel.cs" Line="14" Column="1" />
+      <File FileName="API_SystemSekolah/Controllers/JadwalMatpelController.cs" Line="200" Column="10" />
+      <File FileName="API_SystemSekolah/Repositories/Data/KelasRepository.cs" Line="15" Column="10" />
+      <File FileName="API_SystemSekolah/Repositories/Data/SiswaRepository.cs" Line="15" Column="32" />
+      <File FileName="API_SystemSekolah/Controllers/KelasController.cs" Line="167" Column="10" />
+      <File FileName="API_SystemSekolah/Controllers/SiswaController.cs" Line="16" Column="43" />
+      <File FileName="API_SystemSekolah/Controllers/GuruController.cs" Line="135" Column="54" />
+      <File FileName="API_SystemSekolah/Controllers/MatpelController.cs" Line="25" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API_SystemSekolah" expanded="True">
+            <Node name="API_SystemSekolah" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.API__SystemSekolah PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
